@@ -55,5 +55,12 @@ Le dataset "cinemas.csv" contient les informations importante suivantes :
 
 ---
 
+## Réponses aux questions
+
+### Exercice 3 : Variable ayant le plus d'impact
+La corrélation entre le nombre d'écrans et les entrées annuelles est plus forte, ce qui en fait le facteur le plus influent comparé au nombre de fauteuils.
+
+---
+
 ## Auteur
 Maxime
