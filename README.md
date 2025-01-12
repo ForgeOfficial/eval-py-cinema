@@ -60,6 +60,12 @@ Le dataset "cinemas.csv" contient les informations importante suivantes :
 ### Exercice 3 : Variable ayant le plus d'impact
 La corrélation entre le nombre d'écrans et les entrées annuelles est plus forte, ce qui en fait le facteur le plus influent comparé au nombre de fauteuils.
 
+### Exercice 4 : Performances du modèle
+Le nombre d'écrans et de fauteuils influence les entrées, mais d'autres facteurs comme la localisation et la programmation des films sont également essentiels. Ces variables seules ne suffisent pas à prédire avec précision les entrées annuelles.
+
+### Exercice 5 : Recommandations stratégiques
+En fonction de la situation du cinéma, il serait stratégique de commencer par augmenter le nombre de fauteuils de 20 %, car cela semble directement lié à une augmentation significative des entrées. Si le cinéma dispose de suffisamment d'espace et de ressources, l'ajout d'écrans pourrait également être envisagé pour maximiser l'impact sur les entrées.
+
 ---
 
 ## Auteur
