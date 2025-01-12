@@ -1,6 +1,7 @@
 import exercice1
 import exercice2
 import exercice3
+import exercice4
 
 
 def menu():
@@ -8,7 +9,7 @@ def menu():
         "1": ("Exercice 1", exercice1.main),
         "2": ("Exercice 2", exercice2.main),
         "3": ("Exercice 3", exercice3.main),
-        "4": ("Exercice 4", ""),
+        "4": ("Exercice 4", exercice4.main),
         "q": ("Quitter", None)
     }
 
