@@ -1,10 +1,11 @@
 import exercice1
+import exercice2
 
 
 def menu():
     options = {
         "1": ("Exercice 1", exercice1.main),
-        "2": ("Exercice 2", ""),
+        "2": ("Exercice 2", exercice2.main),
         "3": ("Exercice 3", ""),
         "4": ("Exercice 4", ""),
         "q": ("Quitter", None)
